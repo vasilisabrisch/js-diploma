@@ -1,0 +1,16 @@
+{
+  "name": "js-diploma",
+  "version": "1.0.0",
+  "description": "test project",
+  "source": "/src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "D Brishten",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.2",
+    "parcel": "^2.3.2"
+  }
+}
